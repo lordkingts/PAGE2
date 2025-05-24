@@ -1,0 +1,56 @@
+img {
+margin: auto;
+width: 300px;
+display: block;
+}
+
+.entrar {
+  margin: auto;
+  display: block;
+  width: 300px;
+  background-color: yellow;
+  
+}
+  
+
+
+button {
+margin: auto;
+display: block;
+width: 300px;
+background-color :  white;
+border-radius: 100px;
+}
+
+body {
+  
+  background-color : black;
+}
+
+
+
+.verificado img {
+  margin: auto;
+  display: block;
+
+  
+  
+}
+
+.faca {
+  margin: auto;
+  display: block;
+  width: 300px;
+  height: 100px;
+  }
+  
+  h1 {
+    margin: auto;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+  
+    
+    
+  }
